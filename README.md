@@ -11,7 +11,6 @@
       tools: [React, ContextApi, Node, Express,Socket.io, Mongoose,React-native,styled-components],
       architecture: ["microservices", "Model-View-Controller","Model-View-ViewModel"],
       challenge: "I want to master all the Javascript stack (Node,React,React-native,Electron)",
-      yearsOfExperience:3,
-
+      yearsOfExperience:3
     }
 ```
