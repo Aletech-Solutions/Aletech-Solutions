@@ -3,6 +3,7 @@
 <p>Software Engineer at <a>Policarpo</a></p>
 </em></p>
 ```javascript
+
    const alex = {
       code: [Javascript, Typescript, HTML, CSS, Python, Java],
       energy: 1,
