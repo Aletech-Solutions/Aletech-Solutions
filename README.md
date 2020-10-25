@@ -20,7 +20,7 @@ const alex = {
   ---
  
  <p>
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/i2cDOzA" data-context="false" ><a href="//imgur.com/a/i2cDOzA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img width="250" align='left' src="https://i.imgur.com/unNyfCM.png">
 </p>
  
 ### Boy Scout Rule
