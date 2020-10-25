@@ -20,7 +20,7 @@ const alex = {
   ---
  
  <p>
-  <img width="250" align='left' src="https://i.imgur.com/unNyfCM.png">
+  <img width="250" style="margin-top:-50px" align='left' src="https://i.imgur.com/unNyfCM.png">
 </p>
  
 ### Boy Scout Rule
