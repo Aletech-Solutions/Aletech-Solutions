@@ -40,6 +40,8 @@ OwlClock is one of the funniest projects that i'm working on, it's going to be a
 </p>
  
 ### Forgotten - The fallen prison
-  
-Forgotten is a Top-Down Sci-fi RPG, with a crafting mechanic and a lot of story to tell you, this game is going to have more than 250+ diferent characters, a multiplayer mode and 5 different classes to play with. Totally built using python3 with pygame, and javascript socket server.
+ 
+ 
+ Forgotten is a Top-Down Sci-fi RPG, with a crafting mechanic and a lot of story to tell you, this game is going to have more than 250+ diferent characters, a multiplayer mode and 5 different classes to play with. Totally built using python3 with pygame, and javascript socket server.
+
  ---
