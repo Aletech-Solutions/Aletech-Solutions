@@ -20,11 +20,12 @@ const alex = {
   ---
  
  <p>
-  <img width="150" style="margin-top:-50px" align='left' src="https://i.imgur.com/unNyfCM.png">
+  
+  <img width="150"  align='left' src="https://i.imgur.com/unNyfCM.png">
 </p>
  
-### Boy Scout Rule
+### OwlClock
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+OwlClock is one of the funniest projects that i'm working on, it's going to be a Realtime platform, where you fight other players with questions about a specific topic, but with a lot of crazy tricks that you can do to "cheat" in this knowlegde race.
 
  ---
