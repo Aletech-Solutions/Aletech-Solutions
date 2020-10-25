@@ -7,7 +7,7 @@
 
 ```javascript
 const alex = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java],
    energy: 99,
    drinkCoffe:function(){this.energy += 1},
    javascriptTools: [React, ContextApi, Node, Express,Socket, Mongoose,Electron],
