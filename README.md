@@ -2,6 +2,7 @@
 
 <p>Software Engineer at <a>Policarpo</a></p>
 </em></p>
+
 [![GitHub AlexandreUser](https://img.shields.io/github/followers/AlexandreUser?label=follow&style=social)](https://github.com/AlexandreUser)
 
 ```javascript
