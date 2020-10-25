@@ -17,6 +17,9 @@ const alex = {
    yearsOfExperience:3
 }
 ```
+
+## Projects i'm working on
+
   ---
  
  <p>
@@ -26,6 +29,6 @@ const alex = {
  
 ### OwlClock
 
-OwlClock is one of the funniest projects that i'm working on, it's going to be a Realtime platform, where you fight other players with questions about a specific topic, but with a lot of crazy tricks that you can do to "cheat" in this knowlegde race.
+OwlClock is one of the funniest projects that i'm working on, it's going to be a Realtime platform, where you fight other players with questions about a specific topic, but with a lot of crazy tricks that you can do to "cheat" in this knowlegde race. The Stack is full javascript, using react-native for mobile, and Node with socket.io in the backend.
 
  ---
