@@ -3,8 +3,7 @@
 <p>Software Engineer at <a>Policarpo</a></p>
 </em></p>
 
-[![GitHub AlexandreUser](https://img.shields.io/github/followers/AlexandreUser?label=follow&style=social)](https://github.com/AlexandreUser)
-![AlexandreUser's Github Stats](https://github-readme-stats.vercel.app/api?username=AlexandreUser&show_icons=true)
+[![GitHub AlexandreUser](https://img.shields.io/github/followers/AlexandreUser?label=follow&style=social)](https://github.com/AlexandreUser)]
 
 ```javascript
 const alex = {
