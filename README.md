@@ -36,7 +36,7 @@ OwlClock is one of the funniest projects that i'm working on, it's going to be a
  
  <p>
   
-  <img width="150"  align='left' src="https://raw.githubusercontent.com/AlexandreUser/Forgotten-The-Fallen-Prison/master/assets/logos/vers%C3%A3o_0.3.png?token=AJ4Q2JQW6IZX7UZXXQVENTC7SUAU4">
+  <img width="150"  align='left' src="https://i.imgur.com/1gxPpu7.png">
 </p>
  
 ### OwlClock
