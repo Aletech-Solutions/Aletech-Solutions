@@ -51,3 +51,4 @@ Then follow me in my social media :D
 
 - [Instagram](https://www.instagram.com/alexandrevieira862/) 😎
 - [LinkedIn](https://www.linkedin.com/in/alexandre-vieira-souza-junior/) 👨💼
+- [Medium](https://medium.com/@av.souza2018) 👨✍️
