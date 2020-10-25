@@ -45,3 +45,9 @@ OwlClock is one of the funniest projects that i'm working on, it's going to be a
  Forgotten is a Top-Down Sci-fi RPG, with a crafting mechanic and a lot of story to tell you, this game is going to have more than 250+ diferent characters, a multiplayer mode and 5 different classes to play with. Totally built using python3 with pygame, and javascript socket server.
 
  ---
+## If you want to know more about me...
+
+Then follow me in my social media :D
+
+- [Instagram](https://www.instagram.com/alexandrevieira862/) 😎
+- [LinkedIn](https://www.linkedin.com/in/alexandre-vieira-souza-junior/) 👨💼
