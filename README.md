@@ -12,7 +12,7 @@ const alex = {
    drinkCoffe:function(){this.energy += 1},
    javascriptTools: [React, ContextApi, Node, Express,Socket, Mongoose,Electron],
    pythonTools:[Flask,Pymongo,OpenCV,Tensorflow,Scipy,Pandas],
-   architecture: ["Microservices", "Model-View-Controller","Model-View-ViewModel"],
+   architecture: ["Microservices", "Model-View-Controller"],
    challenge: "I want to master all the Javascript stack (Node,React,React-native,Electron)",
    yearsOfExperience:3
 }
