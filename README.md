@@ -9,7 +9,7 @@ const alex = {
    energy: 1,
    drinkCoffe:function(){this.energy += 1},
    tools: [React, ContextApi, Node, Express,Socket.io, Mongoose, styled-components],
-   architecture: ["microservices", "Model-View-Controller","Model-View-ViewModel"],
+   architecture: ["Microservices", "Model-View-Controller","Model-View-ViewModel"],
    challenge: "I want to master all the Javascript stack (Node,React,React-native,Electron)",
    yearsOfExperience:3
 }
