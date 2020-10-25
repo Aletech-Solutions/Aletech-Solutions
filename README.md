@@ -8,7 +8,7 @@
 ```javascript
 const alex = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-   energy: 1,
+   energy: 99,
    drinkCoffe:function(){this.energy += 1},
    javascriptTools: [React, ContextApi, Node, Express,Socket, Mongoose],
    pythonTools:[Flask,Pymongo,OpenCV,Tensorflow,Scipy,Pandas],
