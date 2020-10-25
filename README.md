@@ -39,8 +39,7 @@ OwlClock is one of the funniest projects that i'm working on, it's going to be a
   <img width="150"  align='left' src="https://i.imgur.com/1gxPpu7.png">
 </p>
  
-### OwlClock
-
-OwlClock is one of the funniest projects that i'm working on, it's going to be a Realtime platform, where you fight other players with questions about a specific topic, but with a lot of crazy tricks that you can do to "cheat" in this knowlegde race. The Stack is full javascript, using react-native for mobile, and Node with socket.io in the backend.
-
+### Forgotten - The fallen prison
+  
+Forgotten is a Top-Down Sci-fi RPG, with a crafting mechanic and a lot of story to tell you, this game is going to have more than 250+ diferent characters, a multiplayer mode and 5 different classes to play with. Totally built using python3 with pygame, and javascript socket server.
  ---
