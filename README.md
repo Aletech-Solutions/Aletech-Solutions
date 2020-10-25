@@ -3,7 +3,7 @@
 <p>Software Engineer at <a>Policarpo</a></p>
 </em></p>
 
-[![GitHub AlexandreUser](https://img.shields.io/github/followers/AlexandreUser?label=follow&style=social)](https://github.com/AlexandreUser)]
+[![GitHub AlexandreUser](https://img.shields.io/github/followers/AlexandreUser?label=follow&style=social)](https://github.com/AlexandreUser)
 
 ```javascript
 const alex = {
@@ -53,4 +53,4 @@ Then follow me in my social media :D
 - [LinkedIn](https://www.linkedin.com/in/alexandre-vieira-souza-junior/) 👨💼
 - [Medium](https://medium.com/@av.souza2018) 👨✍️
 
-
+![AlexandreUser's Github Stats](https://github-readme-stats.vercel.app/api?username=AlexandreUser&show_icons=true)
