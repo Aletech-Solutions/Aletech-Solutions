@@ -14,7 +14,7 @@ const alex = {
    pythonTools:[Flask,Pymongo,OpenCV,Tensorflow,Scipy,Pandas],
    architecture: ["Microservices"],
    challenge: "I want to master all the Javascript stack (Node,React,React-native,Electron)",
-   yearsOfExperience:5
+   yearsOfExperience:6
 }
 ```
 
