@@ -10,8 +10,8 @@ const alex = {
    code: [Javascript, Typescript, HTML, CSS, Python, Java],
    energy: 99,
    drinkCoffe:function(){this.energy += 1},
-   javascriptTools: [React, ContextApi, Node, Express,Socket, Mongoose,Electron],
-   pythonTools:[Flask,Pymongo,OpenCV,Tensorflow,Scipy,Pandas],
+   javascriptTools: [React, ContextApi, Node, Express, Socket, Mongoose, Electron],
+   pythonTools:[Flask, Pymongo, OpenCV, Tensorflow, Scipy, Pandas],
    architecture: ["Microservices"],
    challenge: "I want to master all the Javascript stack (Node,React,React-native,Electron)",
    yearsOfExperience:6
