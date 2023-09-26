@@ -50,4 +50,4 @@ Then follow me in my social media :D
 - [LinkedIn](https://www.linkedin.com/in/alexandre-vieira-souza-junior/) 👨💼
 - [Medium](https://medium.com/@av.souza2018) 👨✍️
 
-![AlexandreUser's Github Stats](https://github-readme-stats.vercel.app/api?username=AlexandreUser&show_icons=true)
+![Aletech-Solutions's Github Stats](https://github-readme-stats.vercel.app/api?username=Aletech-Solutions&show_icons=true)
