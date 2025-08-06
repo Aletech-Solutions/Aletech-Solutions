@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-I'm a **Full Stack Developer** with **8 years of experience**, passionate about building scalable web applications and experimenting with real-time, AI-driven solutions. My primary programming languages include **JavaScript**, **TypeScript**, **Python**, **Java**, **HTML**, and **CSS**.
+I'm a **Full Stack Developer** with **8 years of experience**, passionate about building scalable web applications and experimenting with real-time, AI-driven solutions. My primary programming languages include **JavaScript**, **TypeScript**, **Python**, **Java**.
 
 On the **JavaScript/TypeScript** side, I work extensively with **React**, **Context API**, **Node.js**, **Express**, **Socket.io**, **Mongoose**, and **Electron** for building dynamic frontends and real-time backend services.
 
