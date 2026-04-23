@@ -1,6 +1,6 @@
 I’m Alexandre Vieira.
 
-I’m a software engineer with around nine years of experience in the industry. Over the years, I’ve worked with small startups, large tech companies, banks, and investment funds, gaining exposure to a wide range of problems, scales, and engineering cultures.
+I’m a software engineer with around ten years of experience in the industry. Over the years, I’ve worked with small startups, large tech companies, banks, and investment funds, gaining exposure to a wide range of problems, scales, and engineering cultures.
 
 Some of my repositories make use of AI, others don’t. I use the right tools for the job. If you’re not a fan of AI, that’s fine, but it won’t change how I build.
 
